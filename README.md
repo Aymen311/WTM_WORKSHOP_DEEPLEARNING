@@ -5,9 +5,18 @@ This repository will guid you through the workshop material and all the tools th
 
 ## Table of Content 
 
-1. [Python Basics](https://github.com/Aymen311/WTM_WORKSHOP_DEEPLEARNING/tree/main/Python%20Basics) 
+1.  [Python Basics](https://github.com/Aymen311/WTM_WORKSHOP_DEEPLEARNING/tree/main/Python%20Basics)
 2. [Logistic-Regression-with-a-Neural-Network-mindset](https://github.com/Aymen311/WTM_WORKSHOP_DEEPLEARNING/tree/main/Logistic-Regression-with-a-Neural-Network-mindset) 
 
+## Note that you can always open the notebooks on Google Colab ( No need to install anything ) you just need a stable internet connection : 
+
+  <b> - Python Basics </b>  <a  href="https://colab.research.google.com/github/Aymen311/WTM_WORKSHOP_DEEPLEARNING/blob/main/Python%20Basics/Python%20Basics%20with%20Numpy.ipynb#scrollTo=vfFBizVK6gta"> 
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
+<b> - Implementing Logistic regression with a NN mindset </b>  <a  href="https://colab.research.google.com/github/Aymen311/WTM_WORKSHOP_DEEPLEARNING/blob/main/Python%20Basics/Python%20Basics%20with%20Numpy.ipynb#scrollTo=vfFBizVK6gta"> 
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
 
 
 ### Download and Install the tools needed
