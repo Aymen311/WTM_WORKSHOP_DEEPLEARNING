@@ -43,3 +43,9 @@ This repository will guid you through the workshop material and all the tools th
 
 **Check [Anaconda Documentation](https://docs.anaconda.com) for more details** 
 
+#### 2. How to get started 
+* Clone this repository , you can find diffrent ways to do that [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+* Open Jupyter Notebook and navigate to your cloned repo.
+* All step up and done , open a notebook and start your training.
+
+
