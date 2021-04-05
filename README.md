@@ -21,7 +21,7 @@ This repository will guid you through the workshop material and all the tools th
 
 ### Download and Install the tools needed
 
-[Anaconda](https://www.anaconda.com/) Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.
+[Anaconda](https://www.anaconda.com/) is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.
 
 #### Note that you need to have python installed ( v3.8 or + ) if you don't, go and [install python](https://www.python.org/downloads/) first, then we can move forward.
 #### If you have an oldest version, you can update it later using `conda update python` 
