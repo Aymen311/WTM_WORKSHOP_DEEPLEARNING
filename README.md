@@ -14,7 +14,7 @@ This repository will guid you through the workshop material and all the tools th
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
 
-<b> - Implementing Logistic regression with a NN mindset </b>  <a  href="https://colab.research.google.com/github/Aymen311/WTM_WORKSHOP_DEEPLEARNING/blob/main/Python%20Basics/Python%20Basics%20with%20Numpy.ipynb#scrollTo=vfFBizVK6gta"> 
+<b> - Implementing Logistic regression with a NN mindset </b>  <a  href="https://colab.research.google.com/github/Aymen311/WTM_WORKSHOP_DEEPLEARNING/blob/main/Logistic-Regression-with-a-Neural-Network-mindset/Implementing%20Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb"> 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
 
